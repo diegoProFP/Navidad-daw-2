@@ -1,2 +1,4 @@
-package polonorte.elfos;public class Dani {
+package polonorte.elfos;
+
+public class Dani {
 }
