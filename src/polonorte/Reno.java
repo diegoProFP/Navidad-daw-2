@@ -24,8 +24,8 @@ public class Reno {
 
 
 	public String volar(String direccion){
-        System.out.println("Reno.volar");
-
+        System.out.println("Dani: Reno.volar");
+		System.out.println("Dani: El reno va a empezar a volar");
         return "mmmmmiiiiii chus chus peeeeerrrr";
     }
 
