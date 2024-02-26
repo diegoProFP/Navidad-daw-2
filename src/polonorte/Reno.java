@@ -28,7 +28,7 @@ public class Reno {
 		System.out.println("I'm Reno Renardo");
 		
 
-        return "mmmmmiiiiii chus chus peeeeerrrr";
+        return "este reno no vuela";
     }
 
     
