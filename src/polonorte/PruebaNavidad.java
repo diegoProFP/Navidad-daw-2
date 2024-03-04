@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 
 public class PruebaNavidad {
-//Comentario Sergio
+
 	public static void main(String[] args) throws DatosInvalidosException {
 
 		SantaClaus santa = new SantaClaus();
