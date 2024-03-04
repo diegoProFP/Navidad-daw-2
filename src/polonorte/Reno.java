@@ -3,8 +3,6 @@ package polonorte;
 
 public class Reno {
 
-	// COMENTARIO 1
-
     private String nombre;
     private int velocidad;
 
