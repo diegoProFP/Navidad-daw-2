@@ -3,9 +3,11 @@ package polonorte;
 
 public class Reno {
 
+
     private String nombre;
     private int velocidad;
 
+	//Comentario 2
     private int numCuernos;
     private int numCollares;
     
