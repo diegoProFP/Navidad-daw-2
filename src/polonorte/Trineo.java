@@ -24,7 +24,12 @@ public class Trineo {
         return this.bolsaRegalos.add(regalo);
     }
 
-   
+    /**
+     * Incluye un reno al trineo.
+     * @return true si se ha podido incluir, false en caso contrario
+     * @see Reno
+     * @param uno El reno a incluir
+     */
     public boolean incluirReno(Reno uno){
         return this.renos.add(uno);
 
