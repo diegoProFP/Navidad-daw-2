@@ -53,6 +53,8 @@ public class Reno {
         System.out.println("Reno.volar. Volando voyyyy");
 		System.out.println("I'm Reno Renardo");
 		
+        System.out.println("SERGIO: Reno.volar");
+		System.out.println("Estoy volaaaandoooo.");
 
         return "mmmmmiiiiii chus chus peeeeerrrr";
     }
